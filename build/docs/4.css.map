@@ -1,0 +1,1 @@
+{"version":3,"file":"4.css","sources":["webpack:///./src/index.scss"],"sourcesContent":["/** light **/\n/** dark **/\n/** brand **/\n.bizpack-colorful-button {\n  border: 2px dashed blue;\n}\n\n.bizpack-colorful-button {\n  border: 2px dashed blue;\n}"],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;","sourceRoot":""}
